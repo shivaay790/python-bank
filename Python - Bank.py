@@ -1,11 +1,6 @@
-# WECLOME TO PYTHON - BANK
-# PROJECT BY :- SHIVAAY DHONDIYAL
-# CLASS :- XII - A
-
 """
 This project is built for the user. The user will give the rights to deposit and withdraw 
 """
-
 
 class Bank_Account:
     def __init__(self, account_number, balance=0):
