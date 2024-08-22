@@ -3,7 +3,7 @@
 
 This project is a simple bank account management system that allows users to perform basic banking transactions such as deposits, withdrawals, and balance inquiries. It is implemented in Python & provides an easy to use interface for managing a bank account.
 
-Table of Contents
+##Table of Contents
 I) Features
 II) Installation
 III) Usage
@@ -13,7 +13,7 @@ VI) License
 
 
 
-I) Features:
+##I) Features:
 
 1) Deposit Money: Allows users to deposit money into their account.
 2) Withdraw Money: Allows users to withdraw money from their account (with a check for sufficient balance).
@@ -21,10 +21,10 @@ I) Features:
 4) Exit: Option to exit the banking interface.
 
    
-II) Installation
+##II) Installation
 
 
-III) Usage
+##III) Usage
 1) Start the program, and you will be prompted to enter your account number and initial balance. The balance must be a non-negative integer.
 2) Once logged in, you can choose from the following transactions:
 		Deposit Money: Type 'b' / 'B' to deposit money into your account.
@@ -34,7 +34,7 @@ III) Usage
 3) Follow the on-screen instructions to complete your transactions.
 
 	 
-IV) Class and Methods
+##IV) Class and Methods
 1) Bank_Account
 __init__(self, account_number, balance=0)
 Initializes the account with an account number and an optional starting balance.
@@ -49,10 +49,10 @@ Deducts the specified amount from the account balance if sufficient funds are av
 Displays the current balance of the account.
 
 
-V) Technologies Used
+##V) Technologies Used
 1) Python: Core programming language.
 
-VII) License
+##VII) License
 This project is licensed under the Apache License 2.0.
 
 
